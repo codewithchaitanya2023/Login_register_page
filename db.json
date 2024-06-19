@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "chaitanya",
+      "password": "chaitu",
+      "name": "chaitanya bharambe",
+      "email": "chaitu@gmail.com",
+      "phone": "897473773",
+      "country": "india",
+      "gender": "male",
+      "address": "nashik"
+    },
+    {
+      "id": "manish",
+      "password": "manish",
+      "name": "manish bharambe",
+      "email": "manish@gmail.com",
+      "phone": "897473773",
+      "country": "india",
+      "gender": "male",
+      "address": "nashik"
+    }
+  ]
+}
